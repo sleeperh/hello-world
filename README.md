@@ -4,6 +4,7 @@
  *Hello*, **world!** I am a CS major from [NSU](https://www.nsuok.edu/)
  
  [My company logo](logo.jpg)
+ 
  I like:
  * Stuff
  * Junk
